@@ -1,1 +1,1 @@
-# AI-Based-Control-System-for-Fault-Detection-and-Management-of-Charging-Stations
+Designed and implemented a comprehensive data acquisition system to collect high-resolution electrical parameters from EV charging stations, including voltage waveforms, current profiles, power factor, and harmonics. Developed a sophisticated fault detection algorithm using Autoencoders, capable of identifying anomalies in real-time based on power quality metrics and charging patterns across multiple AC and DC fast-charging units.
